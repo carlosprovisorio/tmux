@@ -9,6 +9,9 @@ Below are some of the most used commands (https://gist.github.com/lsaffie/a0f2a3
 Prefix:
 <pre><code>ctrl+a</code></pre>
 
+Open pre-determined panes (only available if you use my tmux config)
+<pre><code>ctrl+a + D</code></pre>
+
 Moving aroud:
 
 right:
