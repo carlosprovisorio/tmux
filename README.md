@@ -3,7 +3,6 @@
 
 `ln -s ~/.tmux/.tmux.conf ~/.tmux.conf`
 
-
 Below are some of the most used commands (https://gist.github.com/lsaffie/a0f2a3830ddc4fbf7bee3505d1cf228c):
 
 Prefix:
